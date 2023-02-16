@@ -1,0 +1,18 @@
+---
+layout: default
+title: GaryPlanner
+modal-id: 1
+img: garyplanner.png
+alt: garyplanner-alt
+project-date: December 2020
+---
+
+### What I Did
+- Designed and developed a web-based application in conjunction with a team of 10 to assist students' academic planning by generating a customized roadmap of remaining required courses.
+- Built robust backend API routes with Node.js and Express.js to manage friend requests, improving user experience and ensuring effective data processing between the frontend and backend.
+
+### What I Used
+Python, Node.js, Express.js, PostGreSQL, Git, Docker
+
+
+[[Github](https://github.com/j3li/GaryPlanner){:target="_blank"}]

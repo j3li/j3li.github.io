@@ -1,0 +1,17 @@
+---
+layout: default
+title: Maplestory Culvert & Flag Score Extractor
+modal-id: 4
+img: cfscore.png
+alt: cfscore
+project-date: December 2022
+---
+
+### What I Did
+- Developed application that is capable of extracting, organizing, and formatting text from a video file that is uploaded to the platform.
+- Implemented pre-processing techniques using Python to optimize the accuracy of extracting text and numerical data from images.
+
+### What I Used
+Python, Git, TesseractOCR
+
+[[Github](https://github.com/j3li/maplestory-culvert-flag-score-extractor){:target="_blank"}]

@@ -1,0 +1,19 @@
+---
+layout: default
+title: Analysis of Covid Stimulus Checks and Covid Positivity Rates
+modal-id: 2
+img: covidanalysis.png
+alt: covidanalysis-alt
+project-date: March 2022
+---
+
+### What I Did
+- Conducted data analysis with a team of 5 on the relationship between Covid-19 stimulus checks and Covid-19 positivity rates during the pandemic.
+- Performed a thorough data cleaning and formatting process on scraped data, laying the groundwork for subsequent analysis and interpretation.
+- Designed and developed data visualizations to uncover key insights and patterns between stimulus check periods and the decline of positivity rates.
+
+### What I Used
+Python, Git, Pandas, NumPy, Seaborn, Matplotlib
+
+
+[[Github](https://github.com/j3li/Analysis-of-Covid-Stimulus-Checks-and-Covid-Positivity-Rates){:target="_blank"}]
