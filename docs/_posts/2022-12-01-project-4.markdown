@@ -1,17 +1,17 @@
 ---
 layout: default
-title: US Flight Performance
-modal-id: 3
-img: flight.png
-alt: flight-alt
-project-date: February 2022
+title: Maplestory Culvert & Flag Score Extractor
+modal-id: 4
+img: cfscore.png
+alt: cfscore
+project-date: December 2022
 ---
 
 ### What I Did
-- Developed an interactive Tableau dashboard that showcases US airport and airline performance metrics.
-- Performed queries using PostGreSQL to research and analyze data on airplane delays and causes.
+- Developed application that is capable of extracting, organizing, and formatting text from a video file that is uploaded to the platform.
+- Implemented pre-processing techniques using Python to optimize the accuracy of extracting text and numerical data from images.
 
 ### What I Used
-Tableau, PostGreSQL, Git
+Python, Git, TesseractOCR
 
-[[Github](https://github.com/j3li/US-Flight-Performance){:target="_blank"}]
+[[Github](https://github.com/j3li/maplestory-culvert-flag-score-extractor){:target="_blank"}]

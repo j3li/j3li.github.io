@@ -1,0 +1,17 @@
+---
+layout: default
+title: US Flight Performance
+modal-id: 3
+img: flight.png
+alt: flight-alt
+project-date: February 2023
+---
+
+### What I Did
+- Developed an interactive Tableau dashboard that showcases US airport and airline performance metrics.
+- Performed queries using PostGreSQL to research and analyze data on airplane delays and causes.
+
+### What I Used
+Tableau, PostGreSQL, Git
+
+[[Github](https://github.com/j3li/US-Flight-Performance){:target="_blank"}]
