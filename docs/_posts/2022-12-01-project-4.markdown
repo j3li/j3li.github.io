@@ -8,10 +8,11 @@ project-date: December 2022
 ---
 
 ### What I Did
-- Developed application that is capable of extracting, organizing, and formatting text from a video file that is uploaded to the platform.
-- Implemented pre-processing techniques using Python to optimize the accuracy of extracting text and numerical data from images.
+- Developed a web application that is capable of extracting, organizing, and formatting text from a video file that is uploaded to the platform.
+- Implemented pre-processing techniques using **Python** to optimize the accuracy of extracting text and numerical data from images.
+- Established a custom algorithm to match extracted names from **Tesseract** with a pre-created list of names, streamlining data processing and reducing errors by 25%.
 
 ### What I Used
-Python, Git, TesseractOCR
+Python, Git, Tesseract, Flask, HTML
 
 [[Github](https://github.com/j3li/maplestory-culvert-flag-score-extractor){:target="_blank"}]
