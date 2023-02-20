@@ -9,8 +9,9 @@ project-date: March 2022
 
 ### What I Did
 - Conducted data analysis with a team of 5 on the relationship between Covid-19 stimulus checks and Covid-19 positivity rates during the pandemic.
-- Performed a thorough data cleaning and formatting process on scraped data with **Python**, laying the groundwork for subsequent analysis and interpretation.
-- Designed and developed data visualizations using **Seaborn** and **Matplotlib** to uncover key insights and patterns between stimulus check periods and the decline of positivity rates.
+- Formulated an informed hypothesis to test by carrying out extensive research on Covid-19 statistics.
+- Performed thorough data cleaning in **Python**, laying the groundwork for subsequent analysis and interpretation.
+- Uncovered key insights and patterns in daily rates through data visualizations with **Matplotlib** and **Seaborn**.
 
 ### What I Used
 Python, Git, Pandas, NumPy, Seaborn, Matplotlib

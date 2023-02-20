@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Maplestory Culvert & Flag Score Extractor
+title: MAPLESTORY CULVERT & FLAG SCORE EXTRACTOR
 modal-id: 4
 img: cfscore.png
-alt: cfscore
+alt: cfscore-alt
 project-date: December 2022
 ---
 
 ### What I Did
-- Developed a web application that is capable of extracting, organizing, and formatting text from a video file that is uploaded to the platform.
-- Implemented pre-processing techniques using **Python** to optimize the accuracy of extracting text and numerical data from images.
-- Established a custom algorithm to match extracted names from **Tesseract** with a pre-created list of names, streamlining data processing and reducing errors by 25%.
+- Developed a web application which extracts and formats text from uploaded videos on the platform, automating transcription and significantly reducing end users’ time required by 50% per week.
+- Designed API routes with **Flask**, enabling seamless file submission and retrieval of extracted data.
+- Optimized accuracy of data extraction by implementing image pre-processing techniques in **Python**.
+- Reduced matching errors by 25% by establishing an algorithm to match names extracted from **Tesseract**.
 
 ### What I Used
 Python, Git, Tesseract, Flask, HTML
