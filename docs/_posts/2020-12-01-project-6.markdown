@@ -9,7 +9,8 @@ project-date: December 2020
 
 ### What I Did
 - Designed and developed a web-based application in conjunction with a team of 10 to assist students' academic planning by generating a customized roadmap of remaining required courses.
-- Built robust backend API routes with Node.js and Express.js to manage friend requests, improving user experience and ensuring effective data processing between the frontend and backend.
+- Developed user stories to capture end users' needs and goals, and translated them into actionable requirements for the app development team, resulting in a more user-centric design.
+- Built robust backend API routes with **Node.js** and **Express.js** to manage friend requests, improving user experience and ensuring effective data processing between the frontend and backend.
 
 ### What I Used
 Python, Node.js, Express.js, PostGreSQL, Git, Docker
