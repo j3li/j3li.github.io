@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video Game Sales Analysis
+title: Video Game Sales
 modal-id: 6
 img: games.png
 alt: games-alt

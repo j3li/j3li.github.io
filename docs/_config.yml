@@ -2,10 +2,10 @@
 title: Jing Li
 email: lijing3931@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Portfolio website of Jing Li, recent computer science UCSD graduate."
+description: "Portfolio website of Jing Yi Li, recent computer science UCSD graduate."
 keywords: "your keywords, separated by commas"
-skills: "Software Development - Data Analytics - Recent Grad"
-meta_author: Li Jing
+skills: "Data Analytics - Software Development - Recent Grad"
+meta_author: Li Jing Yi
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Jing Li
+  copyright: Jing Yi Li
   social: Socials
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
