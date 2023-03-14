@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GaryPlanner
-modal-id: 1
+modal-id: 2
 img: garyplanner.png
 alt: garyplanner-alt
 project-date: December 2020

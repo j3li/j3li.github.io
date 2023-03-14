@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Analysis of Covid Stimulus Checks and Covid Positivity Rates
-modal-id: 2
+modal-id: 1
 img: covidanalysis.png
 alt: covidanalysis-alt
 project-date: March 2022

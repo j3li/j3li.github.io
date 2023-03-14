@@ -1,6 +1,6 @@
-<!-- Portfolio Modals -->
-{% for post in site.posts %}
-<div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog"
+<!-- visualization Modals -->
+{% for visualization in site.visualizations %}
+<div class="portfolio-modal modal fade" id="visualizationModal-{{ visualization.modal-id }}" tabindex="-1" role="dialog"
   aria-hidden="true">
   <div class="modal-content">
     <div class="close-modal" data-dismiss="modal">
@@ -13,15 +13,50 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
-            <h3>{{ post.title }}</h3>
+            <h3>{{ visualization.title }}</h3>
             <hr class="star-primary">
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <img src="img/visualizations/{{ visualization.img }}" class="img-responsive img-centered" alt="{{ visualization.alt }}">
             <hr class="star-primary">
-            {% if post.project-date %}
-            <h4>{{ post.project-date }}</h4>
+            {% if visualization.visualization-date %}
+            <h4>{{ visualization.visualization-date }}</h4>
             {% endif %}
             <div class="modal-text">
-              {{ post.content }}
+              {{ visualization.content }}
+            </div>
+            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+              Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+<!-- Project Modals -->
+{% for project in site.projects %}
+<div class="portfolio-modal modal fade" id="projectModal-{{ project.modal-id }}" tabindex="-1" role="dialog"
+  aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl">
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body">
+            <h3>{{ project.title }}</h3>
+            <hr class="star-primary">
+            <img src="img/projects/{{ project.img }}" class="img-responsive img-centered" alt="{{ project.alt }}">
+            <hr class="star-primary">
+            {% if project.project-date %}
+            <h4>{{ project.project-date }}</h4>
+            {% endif %}
+            <div class="modal-text">
+              {{ project.content }}
             </div>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>

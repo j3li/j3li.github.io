@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Video Game Sales
-modal-id: 6
+modal-id: 3
 img: games.png
 alt: games-alt
 project-date: March 2023
@@ -13,5 +13,5 @@ project-date: March 2023
 ### What I Used
 Tableau, Git
 
-[[Github](https://github.com/j3li/Video-Games-Sales-Analysis/edit/main/README.md){:target="_blank"}]
+[[Github](https://github.com/j3li/Video-Games-Sales-Analysis/edit/main/README.md){:target="_blank"}
 [[Tableau Dashboard](https://public.tableau.com/app/profile/jing3638/viz/VideoGameSales_16785155468120/VideoGameSales){:target="_blank"}]

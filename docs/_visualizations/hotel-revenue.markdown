@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hotel Revenue Data Analysis
-modal-id: 5
+modal-id: 1
 img: hotel.png
 alt: hotel-alt
 project-date: February 2023

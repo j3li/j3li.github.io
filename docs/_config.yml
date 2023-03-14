@@ -1,5 +1,5 @@
 # Site settings
-title: Jing Li
+title: Jing Yi Li
 email: lijing3931@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Portfolio website of Jing Yi Li, recent computer science UCSD graduate."
@@ -55,6 +55,13 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Collections
+collections:
+  visualizations:
+    output: true
+  projects:
+    output: true
 
 #for posts
 defaults:
