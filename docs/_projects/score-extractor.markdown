@@ -13,7 +13,7 @@ project-date: December 2022
 - Optimized accuracy of data extraction by implementing image pre-processing techniques in **Python**.
 - Reduced matching errors by 25% by establishing an algorithm to match names extracted from **Tesseract**.
 
-### What I Used
-Python, Git, Tesseract, Flask, HTML
+### Skills Used
+Python, Git, Tesseract, Flask, HTML, CSS, Image Processing
 
 [[Github](https://github.com/j3li/maplestory-culvert-flag-score-extractor){:target="_blank"}]

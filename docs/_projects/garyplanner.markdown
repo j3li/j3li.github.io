@@ -13,8 +13,8 @@ project-date: December 2020
 - Built robust backend API routes with **Node.js** and **Express.js** to manage friend requests, improving user experience and retention and ensuring effective data processing between the frontend and backend.
 - Tested API routes with Postman, ensuring seamless communication between the frontend and backend.
 
-### What I Used
+### Skills Used
 Python, Node.js, Express.js, PostGreSQL, Git, Docker, Postman
 
 
-[[Github](https://github.com/j3li/GaryPlanner){:target="_blank"}]
+[Github](https://github.com/j3li/GaryPlanner){:target="_blank"}

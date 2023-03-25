@@ -13,8 +13,8 @@ project-date: February 2023
 - Answered relevant business questions by building a robust **Power BI** dashboard showcasing KPIs.
 
 
-### What I Used
-Power BI, Microsoft SQL Server, SQL, Git
+### Skills Used
+Power BI, Filters, Microsoft SQL Server, SQL, Data Cleaning, Data Visualization, Calculated Fields, Dynamic Dashboard
 
 [[Github](https://github.com/j3li/Hotel-Revenue-Dashboard){:target="_blank"}]
 [[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWM5MDQxNzItZDg3My00MTZkLTkzNTEtOWYwNjQ0NTY0Yzk3IiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9){:target="_blank"}]

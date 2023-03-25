@@ -13,8 +13,8 @@ project-date: March 2022
 - Performed thorough data cleaning in **Python**, laying the groundwork for subsequent analysis and interpretation.
 - Uncovered key insights and patterns in daily rates through data visualizations with **Matplotlib** and **Seaborn**.
 
-### What I Used
-Python, Git, Pandas, NumPy, Seaborn, Matplotlib
+### Skills Used
+Python, Git, Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebook, Data Cleaning, Data Visualization
 
 
-[[Github](https://github.com/j3li/Analysis-of-Covid-Stimulus-Checks-and-Covid-Positivity-Rates){:target="_blank"}]
+[Github](https://github.com/j3li/Analysis-of-Covid-Stimulus-Checks-and-Covid-Positivity-Rates){:target="_blank"}

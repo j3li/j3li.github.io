@@ -8,13 +8,13 @@ project-date: February 2023
 ---
 
 ### What I Did
-- Developed an interactive **Tableau** dashboard that showcases US airport and airline performance metrics.
-- Identified top and bottom performing airlines and airports by utilizing **PostGreSQL** to analyze the dataset.
-- Discovered the most significant contributing factors of flight delays, analyzing the root causes by writing 
-advanced **SQL** queries to investigate the impact of factors such as weather and carrier delays.
+- Discovered aircraft delays as the main cause of delays through root cause analysis, comprising 35% of all delays.
+- Designed an interactive **Tableau** dashboard visualizing airline operation KPIs, highlighting trends in delays.
+- Identified top and bottom performing airlines and airports by utilizing **SQL** queries to analyze the dataset.
 
 
-### What I Used
-Tableau, PostGreSQL, Git
+### Skills Used
+Tableau, PostGreSQL, Excel, Data Manipulation, Data Visualization, Calculated Fields, Filters, Dynamic Dashboard
 
 [[Github](https://github.com/j3li/US-Flight-Performance){:target="_blank"}]
+[[Tableau Dashboard](https://public.tableau.com/app/profile/jing3638/viz/USFlightPerformance2017-2022/USFLIGHTPERFORMANCE?publish=yes){:target="_blank"}]
